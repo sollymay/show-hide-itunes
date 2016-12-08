@@ -13,6 +13,12 @@ Yes, I know that Alfred has a mini player, but I don't like the lack of Apple Mu
 * Download the show-hide-iTunes.alfredworkflow
 * Double click to install it
 
+## Donations
+
+If you want to buy me a beer for creating something really cool, don't hesitate to do so!
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9KZ9XGFMGDTLE&lc=US&item_name=Salomon%20May&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
+
 ## Usage
 
 * By default this workflow is set to use the CMD + G but you can easily change it to anything you want through the workflow settings
@@ -31,4 +37,11 @@ My personal usage has been as follows:
 
 ## Credits
 
+Myself (aka) Salomon May
+[Website](http://www.salomonmay.com)
+[@sollymay on Twitter](http://twitter.com/sollymay)
 Most of the credits go to Alfred for creating an amazing platform that allows all of us to contribute in an efficient way.
+
+## License
+
+MIT License
