@@ -1,4 +1,4 @@
-# ${1:Show/Hide iTunes window}
+# Show/Hide iTunes window
 
 This little workflow lets you show/hide the iTunes window either by using a hotkey combo or by setting a keyword.
 
