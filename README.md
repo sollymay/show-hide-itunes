@@ -26,7 +26,7 @@ If you want to buy me a beer for creating something really cool, don't hesitate 
 My personal usage has been as follows:
 * I open iTunes (normally open at startup)
 * I invoke mini player mode (shift + CMD + M) if it is not already activated
-* I use CMD + G to show the iTunes mini player window and hide it, and CMD + F to search for music. When done, I use CMD + D to dismiss (hide) the window
+* I use CMD + G to show the iTunes mini player window and hide it, and CMD + F to search for music. When done, I use CMD + G to dismiss (hide) the window
 
 ## Contributing
 1. Fork it!
